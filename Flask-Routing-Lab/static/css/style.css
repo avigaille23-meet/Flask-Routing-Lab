@@ -1,0 +1,26 @@
+<style>
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+
+body{
+	background-color: lightblue;
+}
+
+h1 {
+	text-align: center;
+}
+
+p{ 
+	text-align: center;
+}
+p { 
+	text-align: center;
+}
+
+</style>
